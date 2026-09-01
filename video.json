@@ -1,30 +1,34 @@
-[
-  {
-    "title": "Mythic Forge V4.6 💥 100% Confirmed Leaks",
-    "description": "Latest video",
-    "videoId": "6II-ToFkJiA",
-    "thumbnail": "https://raw.githubusercontent.com/BYSHAHBAJ/THUMBNAIL/a02046c62a46dca91c379ad3912e899b52146a98/file_00000000f7288208826312e9b7e9ef97.png",
-    "date": "2026-09-01 08:30"
-  },
-  {
-    "title": "V4.6 RETURN WEAPON 🔫💥",
-    "description": "Latest video",
-    "videoId": "sQZbfcWGZKY",
-    "thumbnail": "https://raw.githubusercontent.com/BYSHAHBAJ/THUMBNAIL/a02046c62a46dca91c379ad3912e899b52146a98/file_00000000ad8c8208973256d9cd0e35fe.png",
-    "date": "2026-09-01 08:30"
-  },
-  {
-    "title": "Good News 💥 INFERNO Helmet And Vampire Set COMING SOON",
-    "description": "Latest video",
-    "videoId": "XDX96Tb4etQ",
-    "thumbnail": "https://raw.githubusercontent.com/BYSHAHBAJ/THUMBNAIL/a02046c62a46dca91c379ad3912e899b52146a98/V4.6%20SELECTION%20LUCKY%20SOIN.png",
-    "date": "2026-09-01 08:30"
-  },
-  {
-    "title": "NEW LUCKY SPIN V4.6",
-    "description": "Latest video",
-    "videoId": "Dl9FBEyWZoE",
-    "thumbnail": "https://raw.githubusercontent.com/BYSHAHBAJ/THUMBNAIL/a02046c62a46dca91c379ad3912e899b52146a98/file_00000000360c820895d8c758f301f948.png",
-    "date": "2026-09-01 08:30"
-  }
-]
+{
+  "video": [
+    {
+      "title": "SUN BEST GAMPLAY 6",
+      "thumbnail": "https://img.youtube.com/vi/hOw0CrVKpJE/hqdefault.jpg",
+      "youtubeUrl": "https://youtu.be/hOw0CrVKpJE?si=iLwIHAWrWC98Eb5A"
+    },
+    {
+      "title": "SUN BEST GAMPLAY 5",
+      "thumbnail": "https://img.youtube.com/vi/hOw0CrVKpJE/hqdefault.jpg",
+      "youtubeUrl": "https://youtu.be/hOw0CrVKpJE?si=iLwIHAWrWC98Eb5A"
+    },
+    {
+      "title": "SUN BEST GAMPLAY 4",
+      "thumbnail": "https://img.youtube.com/vi/hOw0CrVKpJE/hqdefault.jpg",
+      "youtubeUrl": "https://youtu.be/hOw0CrVKpJE?si=iLwIHAWrWC98Eb5A"
+    },
+    {
+      "title": "SUN BEST GAMPLAY 3",
+      "thumbnail": "https://img.youtube.com/vi/hOw0CrVKpJE/hqdefault.jpg",
+      "youtubeUrl": "https://youtu.be/hOw0CrVKpJE?si=iLwIHAWrWC98Eb5A"
+    },
+    {
+      "title": "SUN BEST GAMPLAY 2",
+      "thumbnail": "https://img.youtube.com/vi/hOw0CrVKpJE/hqdefault.jpg",
+      "youtubeUrl": "https://youtu.be/hOw0CrVKpJE?si=iLwIHAWrWC98Eb5A"
+    },
+    {
+      "title": "SUN BEST GAMPLAY 1",
+      "thumbnail": "https://img.youtube.com/vi/hOw0CrVKpJE/hqdefault.jpg",
+      "youtubeUrl": "https://youtu.be/hOw0CrVKpJE?si=iLwIHAWrWC98Eb5A"
+    }
+  ]
+}
